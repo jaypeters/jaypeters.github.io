@@ -40,4 +40,23 @@ Below are select highlights of my work. You can see all of my writing at The Ver
 
 [A Vergecast episode about the protests on Reddit in 2023]([url](https://www.youtube.com/watch?v=57vjLHBlIyI))
 
+### Previous Jobs
 Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communications](https://www.we-worldwide.com).
+
+## Fun Stuff
+
+### Emoji
+I've worked on several proposals for emoji that have been accepted by the Unicode Consortium. These emoji are now widely available. 
+
+[🫡 Saluting Face]([url](https://www.unicode.org/L2/L2019/19400-saluting-face.pdf)) <br>
+[🫧 Bubbles]([url](https://www.unicode.org/L2/L2019/19311-bubbles-emoji.pdf)) <br>
+[🧇 Waffle]([url](https://www.unicode.org/L2/L2018/18087-waffle-emoji.pdf)) <br>
+[🥱 Yawning Face]([url](https://www.unicode.org/L2/L2017/17432-yawning-face-emoji.pdf)) <br>
+
+I also wrote a story for The Verge chronicling [how I made the yawning face and waffle emoji]([url](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode)).
+
+### Running
+I like to run distances and have completed four marathons: the 2023 and 2021 Portland Marathon and the 2017 and 2012 Rock ‘n’ Roll Seattle Marathon. I'm not sharing my times because I'm slow. I love training on [the Wildwood Trail]([url](https://www.oregonhikers.org/field_guide/Wildwood_Traverse_Hike)).
+
+### A Treat For Reading This Far
+Enjoy a video of me playing bass drum as part of the University of Oregon Marching Band at the 2010 Rose Bowl. [I was on TV!]([url](https://youtu.be/cy0gmKbine8?feature=shared&t=54))
