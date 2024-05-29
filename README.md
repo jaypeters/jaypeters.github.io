@@ -1,4 +1,4 @@
-## My Work
+## Work Stuff
 
 Hi! I’m a technology journalist at The Verge who covers news in consumer tech, social media, video games, virtual worlds, streaming, and more. 
 
@@ -43,7 +43,7 @@ Below are select highlights of my work. You can see all of my writing at The Ver
 ### Previous Jobs
 Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communications](https://www.we-worldwide.com).
 
-## Fun Stuff
+## Other Stuff
 
 ### Emoji
 I've worked on several emoji proposals that have been accepted by the Unicode Consortium. You can find links to those proposals below. These emoji are now widely available. 
@@ -56,7 +56,7 @@ I've worked on several emoji proposals that have been accepted by the Unicode Co
 I also wrote a story for The Verge chronicling [how I made the yawning face and waffle emoji]([url](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode)).
 
 ### Running
-I like to run distances and have completed four marathons: the 2023 and 2021 Portland Marathon and the 2017 and 2012 Rock ‘n’ Roll Seattle Marathon. My times aren't great; I prefer to run far, not fast.
+I like to run distances and have completed four marathons: the 2023 and 2021 Portland Marathon and the 2017 and 2012 Rock ‘n’ Roll Seattle Marathon. My times weren't great; I prefer to run far, not fast.
 
 ### A Treat For Reading This Far
 Enjoy a video of me playing bass drum as part of the University of Oregon Marching Band at the 2010 Rose Bowl. [I was on TV!]([url](https://youtu.be/cy0gmKbine8?feature=shared&t=54))
