@@ -46,12 +46,7 @@ Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communica
 ## Other Stuff
 
 ### Emoji
-I've worked on several emoji proposals that have been accepted by the Unicode Consortium. You can find links to those proposals below. 
-
-[🫡 Saluting Face]([url](https://www.unicode.org/L2/L2019/19400-saluting-face.pdf)) <br>
-[🫧 Bubbles]([url](https://www.unicode.org/L2/L2019/19311-bubbles-emoji.pdf)) <br>
-[🧇 Waffle]([url](https://www.unicode.org/L2/L2018/18087-waffle-emoji.pdf)) <br>
-[🥱 Yawning Face]([url](https://www.unicode.org/L2/L2017/17432-yawning-face-emoji.pdf)) <br>
+I drafted accepted emoji proposals for Saluting Face 🫡, Bubbles 🫧, Waffle 🧇, and Yawning Face 🥱. You can find those proposals on [the Unicode Consortium's website]([url](https://www.unicode.org/emoji/charts/emoji-proposals.html)). 
 
 I also wrote a story for The Verge chronicling [how I made the yawning face and waffle emoji]([url](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode)).
 
