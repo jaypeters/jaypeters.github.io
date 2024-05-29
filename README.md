@@ -1,6 +1,6 @@
 ## Work Stuff
 
-Hi! I’m a technology journalist at The Verge who covers news in consumer tech, social media, video games, virtual worlds, streaming, and more. 
+Hi! I’m a technology journalist at The Verge. I cover consumer tech, gadgets, social media, video games, virtual worlds, streaming, and more.
 
 Below are select highlights of my work. You can see all of my writing at The Verge on [my author page](https://www.theverge.com/authors/jay-peters).
 
@@ -46,7 +46,7 @@ Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communica
 ## Other Stuff
 
 ### Emoji
-I've worked on several emoji proposals that have been accepted by the Unicode Consortium. You can find links to those proposals below. These emoji are now widely available. 
+I've worked on several emoji proposals that have been accepted by the Unicode Consortium. You can find links to those proposals below. 
 
 [🫡 Saluting Face]([url](https://www.unicode.org/L2/L2019/19400-saluting-face.pdf)) <br>
 [🫧 Bubbles]([url](https://www.unicode.org/L2/L2019/19311-bubbles-emoji.pdf)) <br>
@@ -59,4 +59,4 @@ I also wrote a story for The Verge chronicling [how I made the yawning face and 
 I like to run distances and have completed four marathons: the 2023 and 2021 Portland Marathon and the 2017 and 2012 Rock ‘n’ Roll Seattle Marathon. My times weren't great; I prefer to run far, not fast.
 
 ### A Treat For Reading This Far
-Enjoy a video of me playing bass drum as part of the University of Oregon Marching Band at the 2010 Rose Bowl. [I was on TV!]([url](https://youtu.be/cy0gmKbine8?feature=shared&t=54))
+Here's a video of me playing bass drum as part of the University of Oregon Marching Band at the 2010 Rose Bowl. [I was on TV!]([url](https://youtu.be/cy0gmKbine8?feature=shared&t=54))
