@@ -18,4 +18,26 @@ Below are select highlights of my work. You can see all of my writing at The Ver
 
 [Limited Run gives digital games a physical legacy]([url](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart)) (interview with Limited Run Games CEO Josh Fairhurst)
 
+### Reviews
+[ZSA’s Moonlander Mark I is the ultimate customizable ergonomic keyboard]([url](https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review))
+
+[God of War Ragnarök: Valhalla uses an old genre to tell a new story]([url](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review))
+
+[Before Your Eyes is a beautiful showcase of what VR storytelling can be]([url](https://www.theverge.com/2023/3/10/23632733/before-your-eyes-playstation-vr2-psvr-2-vr-showcase-storytelling))
+
+### Media Appearances
+[WNYC’s The Brian Lehrer Show: Who Is Twitch Influencer Kai Cenat?]([url](https://www.wnyc.org/story/who-twitch-influencer-kai-cenat))
+
+[CNBC Last Call segment about Kai Cenat’s chaotic giveaway in Union Square]([url](https://x.com/LastCallCNBC/status/1687605342924931072))
+
+[NPR's Marketplace Tech: The gaming industry sees major revenue in going mobile
+]([url](https://www.marketplace.org/shows/marketplace-tech/the-gaming-industry-sees-major-revenue-in-going-mobile/))
+
+### Verge Media Appearances
+[Video about the one-year anniversary of Elon Musk owning Twitter]([url](https://www.tiktok.com/@verge/video/7294711029735394606))
+
+[Video about Linda Yaccarino and Yoel Roth at Code 2023]([url](https://www.instagram.com/p/CxuT8pgLVNZ/))
+
+[A Vergecast episode about the protests on Reddit in 2023]([url](https://www.youtube.com/watch?v=57vjLHBlIyI))
+
 Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communications](https://www.we-worldwide.com).
