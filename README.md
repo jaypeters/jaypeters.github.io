@@ -17,6 +17,5 @@ Below are select highlights of my work. You can see all of my writing at *The Ve
 [Blizzard’s president on the studio’s ‘new era’ under Xbox]([url](https://www.theverge.com/2023/11/6/23949086/blizzard-president-mike-ybarra-new-era-xbox-microsoft-blizzcon-2023)) (interview with now-former Blizzard president Mike Ybarra)
 
 [Limited Run gives digital games a physical legacy]([url](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart)) (interview with Limited Run Games CEO Josh Fairhurst)
-February 27th, 2024: 
 
 Before *The Verge*, I worked at [*Techmeme*](https://techmeme.com) and [WE Communications](https://www.we-worldwide.com).
