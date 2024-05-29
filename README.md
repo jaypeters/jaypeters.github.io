@@ -48,10 +48,10 @@ Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communica
 ### Emoji
 I drafted emoji proposals for:
 
-Saluting Face 🫡 <br>
-Bubbles 🫧 <br>
-Waffle 🧇 <br>
-Yawning Face 🥱 <br>
+🫡 Saluting Face <br>
+🫧 Bubbles <br>
+🧇 Waffle <br>
+🥱 Yawning Face <br>
 
 You can find my proposals on [the Unicode Consortium's website]([url](https://www.unicode.org/emoji/charts/emoji-proposals.html)). I also wrote a story for The Verge about [how I made the yawning face and waffle emoji]([url](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode)).
 
