@@ -46,12 +46,17 @@ Before The Verge, I worked at [Techmeme](https://techmeme.com) and [WE Communica
 ## Other Stuff
 
 ### Emoji
-I drafted emoji proposals for Saluting Face 🫡, Bubbles 🫧, Waffle 🧇, and Yawning Face 🥱. You can find those proposals on [the Unicode Consortium's website]([url](https://www.unicode.org/emoji/charts/emoji-proposals.html)). 
+I drafted emoji proposals for:
 
-I also wrote a story for The Verge chronicling [how I made the yawning face and waffle emoji]([url](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode)).
+Saluting Face 🫡 <br>
+Bubbles 🫧 <br>
+Waffle 🧇 <br>
+Yawning Face 🥱 <br>
+
+You can find my proposals on [the Unicode Consortium's website]([url](https://www.unicode.org/emoji/charts/emoji-proposals.html)). I also wrote a story for The Verge about [how I made the yawning face and waffle emoji]([url](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode)).
 
 ### Running
 I like to run long distances and have completed four marathons: the 2023 and 2021 Portland Marathon and the 2017 and 2012 Rock ‘n’ Roll Seattle Marathon. My times weren't great; I prefer to run far, not fast.
 
 ### A Treat For Reading This Far
-In 2010, I played bass drum for the University of Oregon Marching Band and nearly ran over a camera person [during our Rose Bowl performance]([url](https://youtu.be/cy0gmKbine8?feature=shared&t=54)).
+In 2010, I played bass drum for the University of Oregon Marching Band and nearly ran over a camera person [during our Rose Bowl halftime performance]([url](https://youtu.be/cy0gmKbine8?feature=shared&t=54)).
