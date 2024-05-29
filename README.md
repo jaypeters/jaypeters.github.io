@@ -1,5 +1,3 @@
-## Work Stuff
-
 Hi! I’m a technology journalist at The Verge. I cover consumer tech, gadgets, social media, video games, virtual worlds, streaming, and more.
 
 Below are select highlights of my work. You can see all of my writing at The Verge on [my author page](https://www.theverge.com/authors/jay-peters).
