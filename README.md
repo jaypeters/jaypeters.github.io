@@ -55,7 +55,7 @@ I drafted accepted emoji proposals for:
 I also wrote a story for The Verge about [how I made the yawning face and waffle emoji](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode).
 
 ### Running
-I like to run long distances and have completed four marathons: the 2023 and 2021 Portland Marathon and the 2017 and 2012 Rock ‘n’ Roll Seattle Marathon. My times weren't great; I prefer to run far, not fast.
+I like to run long distances and have completed four marathons: the 2023 and 2021 [Portland Marathon](https://www.portlandmarathon.com) and the 2017 and 2012 [Rock ‘n’ Roll Seattle Marathon](https://www.runrocknroll.com/seattle). My times weren't great; I prefer to run far, not fast.
 
 ### A Treat For Reading This Far
 In 2010, I played bass drum for the University of Oregon Marching Band and nearly ran over a camera person [during our Rose Bowl halftime performance](https://youtu.be/cy0gmKbine8?feature=shared&t=54).
