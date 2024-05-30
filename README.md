@@ -1,6 +1,6 @@
 Hi! I’m a technology journalist at The Verge. I cover consumer tech, gadgets, social media, video games, virtual worlds, streaming, and more.
 
-Below are select highlights of my work. You can see all of my writing at The Verge on [my author page](https://www.theverge.com/authors/jay-peters).
+Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters).
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
