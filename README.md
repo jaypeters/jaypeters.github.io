@@ -1,11 +1,11 @@
-Hi! I’m a technology journalist at The Verge. I cover consumer tech, gadgets, social media, video games, virtual worlds, streaming, and more.
+Hi! I’m a technology journalist at The Verge. I cover consumer tech, artificial intelligence, video games, and more.
 
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters).
 
 ### Recent-ish stories I'm proud of
 [OpenAI’s ChatGPT Mac app was storing conversations in plain text](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text)
 
-[Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
+[I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
 
 [The AI upgrade cycle is here](https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here)
 
