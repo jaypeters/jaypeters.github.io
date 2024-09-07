@@ -1,6 +1,6 @@
-Hi! I’m a technology journalist at The Verge. I cover consumer tech, artificial intelligence, video games, and more.
+Hi! I’m a journalist at The Verge. I cover consumer tech, artificial intelligence, video games, and more.
 
-Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11)
+Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11).
 
 ### Recent-ish stories I'm proud of
 
