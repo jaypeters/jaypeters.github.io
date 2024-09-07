@@ -4,11 +4,11 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 
 ### Recent-ish stories I'm proud of
 
-[OpenAI’s ChatGPT Mac app was storing conversations in plain text](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text)
+[Fortnite is back on the iPhone — with a whole app store in tow](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store)
 
-[I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
+[This $1,695 smart bassinet’s best features are now behind a premium subscription](https://www.theverge.com/2024/7/20/24202166/snoo-premium-subscription-happiest-baby)
 
-[The AI upgrade cycle is here](https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here)
+[Now that Google is a monopolist, what’s next?](https://www.theverge.com/2024/8/6/24214641/google-us-monopoly-ruling-what-happens)
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
