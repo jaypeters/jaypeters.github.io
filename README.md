@@ -1,8 +1,9 @@
 Hi! I’m a technology journalist at The Verge. I cover consumer tech, artificial intelligence, video games, and more.
 
-Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters).
+Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11)
 
 ### Recent-ish stories I'm proud of
+
 [OpenAI’s ChatGPT Mac app was storing conversations in plain text](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text)
 
 [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
@@ -62,7 +63,14 @@ I drafted accepted emoji proposals for:
 I also wrote a story for The Verge about [how I made the yawning face and waffle emoji](https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode).
 
 ### Running
-I like to run long distances and have completed four marathons: the 2023 and 2021 [Portland Marathon](https://www.portlandmarathon.com) and the 2017 and 2012 [Rock ‘n’ Roll Seattle Marathon](https://www.runrocknroll.com/seattle). My times weren't great; I prefer to run far, not fast.
+I like to run long distances and have completed four marathons: 
+
+<ul>
+  <li>2023 Portland Marathon</li>
+  <li>2021 Portland Marathon</li>
+  <li>2017 Rock ‘n’ Roll Seattle Marathon</li>
+  <li>2012 Rock ‘n’ Roll Seattle Marathon</li>
+</ul>
 
 ### A Treat For Reading This Far
 In 2010, I played bass drum for the University of Oregon Marching Band and nearly ran over a camera person [during our Rose Bowl halftime performance](https://youtu.be/cy0gmKbine8?feature=shared&t=54).
