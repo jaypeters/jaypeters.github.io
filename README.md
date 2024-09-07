@@ -73,4 +73,4 @@ I like to run long distances and have completed four marathons:
 </ul>
 
 ### A Treat For Reading This Far
-In 2010, I played bass drum for the University of Oregon Marching Band and nearly ran over a camera person [during our performance at the Rose Bowl](https://youtu.be/cy0gmKbine8?feature=shared&t=54).
+In 2010, I played bass drum for the University of Oregon Marching Band and nearly ran over a camera person [at the Rose Bowl](https://youtu.be/cy0gmKbine8?feature=shared&t=54).
