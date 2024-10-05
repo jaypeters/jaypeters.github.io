@@ -5,12 +5,15 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 ### Recent-ish stories I'm proud of
 
 [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
+<br> I attended Unreal Fest Seattle 2024 and was able to interview Epic Games CEO Tim Sweeney, EVP Saxs Persson, VP Steve Allison, and others. This is my wrap-up post from the event.
 
 [Welcome to Meta’s future, where everyone wears cameras
 ](https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect)
+<br> I attended Meta Connect 2024 and was struck by how many people were wearing the Ray-Ban Meta glasses with cameras.
 
 [Sony’s new PS5 heralds the end of disc drives
 ](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
+<br> The $700 PS5 Pro doesn't come with a disc drive, which doesn't seem great for the future of physical media.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
