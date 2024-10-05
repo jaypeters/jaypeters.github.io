@@ -4,11 +4,13 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 
 ### Recent-ish stories I'm proud of
 
-[Fortnite is back on the iPhone — with a whole app store in tow](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store)
+[Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
 
-[This $1,695 smart bassinet’s best features are now behind a premium subscription](https://www.theverge.com/2024/7/20/24202166/snoo-premium-subscription-happiest-baby)
+[Welcome to Meta’s future, where everyone wears cameras
+](https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect)
 
-[Now that Google is a monopolist, what’s next?](https://www.theverge.com/2024/8/6/24214641/google-us-monopoly-ruling-what-happens)
+[Sony’s new PS5 heralds the end of disc drives
+](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -25,7 +27,8 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
 ### Reviews
-[ZSA’s Moonlander Mark I is the ultimate customizable ergonomic keyboard](https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review)
+[Shogun Showdown makes you feel like a genius by showing you the future
+](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)
 
 [God of War Ragnarök: Valhalla uses an old genre to tell a new story](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review)
 
