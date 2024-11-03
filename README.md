@@ -1,6 +1,6 @@
 Hi! I’m a journalist at The Verge. I cover consumer tech, artificial intelligence, video games, and more.
 
-Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11).
+Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [jaypeters.net](https://bsky.app/profile/jaypeters.net). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11).
 
 ### Recent-ish stories I'm proud of
 
@@ -11,9 +11,9 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 ](https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect)
 <br> I attended Meta Connect 2024 and was struck by how many people were wearing the Ray-Ban Meta glasses with cameras.
 
-[Sony’s new PS5 heralds the end of disc drives
-](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
-<br> The $700 PS5 Pro doesn't come with a disc drive, which doesn't seem great for the future of physical media.
+[Metaphor: ReFantazio continues Persona’s great handheld heritage
+](https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage)
+I wrote about how Atlus' Metaphor: ReFantazio is yet another great portable RPG.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -30,10 +30,11 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
 ### Reviews
+[Wilmot Works It Out is the best parts of jigsaw puzzles, but faster and cleaner
+](https://www.theverge.com/2024/10/27/24278619/wilmot-works-it-out-review)
+
 [Shogun Showdown makes you feel like a genius by showing you the future
 ](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)
-
-[God of War Ragnarök: Valhalla uses an old genre to tell a new story](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review)
 
 [Before Your Eyes is a beautiful showcase of what VR storytelling can be](https://www.theverge.com/2023/3/10/23632733/before-your-eyes-playstation-vr2-psvr-2-vr-showcase-storytelling)
 
