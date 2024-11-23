@@ -3,7 +3,6 @@ Hi! I’m a journalist at The Verge. I cover consumer tech, artificial intellige
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [jaypeters.net](https://bsky.app/profile/jaypeters.net). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11).
 
 ### Recent-ish stories I'm proud of
-
 [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
 <br> I attended Unreal Fest Seattle 2024 and was able to interview Epic Games CEO Tim Sweeney, EVP Saxs Persson, VP Steve Allison, and others. This is my wrap-up post from the event.
 
@@ -13,7 +12,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 
 [Metaphor: ReFantazio continues Persona’s great handheld heritage
 ](https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage)
-I wrote about how Atlus' Metaphor: ReFantazio is yet another great portable RPG.
+<br> I wrote about how Atlus' Metaphor: ReFantazio is yet another great portable RPG.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -39,13 +38,13 @@ I wrote about how Atlus' Metaphor: ReFantazio is yet another great portable RPG.
 [Before Your Eyes is a beautiful showcase of what VR storytelling can be](https://www.theverge.com/2023/3/10/23632733/before-your-eyes-playstation-vr2-psvr-2-vr-showcase-storytelling)
 
 ### Media Appearances
+[CBS News: Bluesky picking up steam as alternative to X
+](https://www.youtube.com/watch?v=x-dz6EJYl2c)
+
 [CNBC Last Call segment about Kai Cenat’s chaotic giveaway in Union Square](https://x.com/LastCallCNBC/status/1687605342924931072)
 
 [CBC News: ELI5: What's the deal with the Reddit blackout? | About That
 ](https://www.youtube.com/watch?v=VON-dN8Neho)
-
-[NPR's Marketplace Tech: The gaming industry sees major revenue in going mobile
-](https://www.marketplace.org/shows/marketplace-tech/the-gaming-industry-sees-major-revenue-in-going-mobile/)
 
 ### Verge Media Appearances
 [TikTok video about the one-year anniversary of Elon Musk owning Twitter](https://www.tiktok.com/@verge/video/7294711029735394606)
