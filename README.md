@@ -3,16 +3,15 @@ Hi! I’m a journalist at The Verge. I cover consumer tech, artificial intellige
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [jaypeters.net](https://bsky.app/profile/jaypeters.net). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11).
 
 ### Recent-ish stories I'm proud of
+[Twitter’s heir apparent isn’t X or Threads — it’s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
+<br> I wrote about how Bluesky seems to have a shot at becoming the next great place to get the pulse of the internet.
+
 [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
 <br> I attended Unreal Fest Seattle 2024 and was able to interview Epic Games CEO Tim Sweeney, EVP Saxs Persson, VP Steve Allison, and others. This is my wrap-up post from the event.
 
 [Welcome to Meta’s future, where everyone wears cameras
 ](https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect)
 <br> I attended Meta Connect 2024 and was struck by how many people were wearing the Ray-Ban Meta glasses with cameras.
-
-[Metaphor: ReFantazio continues Persona’s great handheld heritage
-](https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage)
-<br> I wrote about how Atlus' Metaphor: ReFantazio is yet another great portable RPG.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -24,7 +23,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 ### Interviews
 [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
 
-[Blizzard’s president on the studio’s ‘new era’ under Xbox](https://www.theverge.com/2023/11/6/23949086/blizzard-president-mike-ybarra-new-era-xbox-microsoft-blizzcon-2023) (interview with now-former Blizzard president Mike Ybarra)
+[Blizzard’s president on the studio’s ‘new era’ under Xbox](https://www.theverge.com/2023/11/6/23949086/blizzard-president-mike-ybarra-new-era-xbox-microsoft-blizzcon-2023) (interview with former Blizzard president Mike Ybarra)
 
 [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
@@ -32,10 +31,9 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Wilmot Works It Out is the best parts of jigsaw puzzles, but faster and cleaner
 ](https://www.theverge.com/2024/10/27/24278619/wilmot-works-it-out-review)
 
-[Shogun Showdown makes you feel like a genius by showing you the future
-](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)
-
 [Before Your Eyes is a beautiful showcase of what VR storytelling can be](https://www.theverge.com/2023/3/10/23632733/before-your-eyes-playstation-vr2-psvr-2-vr-showcase-storytelling)
+
+[ZSA’s Moonlander Mark I is the ultimate customizable ergonomic keyboard](https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review)
 
 ### Media Appearances
 [CBS News: Bluesky picking up steam as alternative to X
