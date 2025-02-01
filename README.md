@@ -1,17 +1,16 @@
-Hi! I’m a journalist at The Verge. I cover consumer tech, artificial intelligence, video games, and more.
+Hi! I’m a journalist at The Verge. I cover technology, gaming, and more.
 
-Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [jaypeters.net](https://bsky.app/profile/jaypeters.net). On Threads, I'm [@jaypeters.11](https://www.threads.net/@jaypeters.11).
+Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
-[Twitter’s heir apparent isn’t X or Threads — it’s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
-<br> I wrote about how Bluesky seems to have a shot at becoming the next great place to get the pulse of the internet.
+[The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
+<br> I've been a key contributor to making this storystream (in Verge parlance) of articles featuring indie games that Verge staffers and I recommend.
+
+[The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
+<br> I wrote about how many capable handheld gaming PCs that could present an interesting challenge to the Nintendo Switch 2.
 
 [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
 <br> I attended Unreal Fest Seattle 2024 and was able to interview Epic Games CEO Tim Sweeney, EVP Saxs Persson, VP Steve Allison, and others. This is my wrap-up post from the event.
-
-[Welcome to Meta’s future, where everyone wears cameras
-](https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect)
-<br> I attended Meta Connect 2024 and was struck by how many people were wearing the Ray-Ban Meta glasses with cameras.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -28,12 +27,11 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
 ### Reviews
-[Wilmot Works It Out is the best parts of jigsaw puzzles, but faster and cleaner
-](https://www.theverge.com/2024/10/27/24278619/wilmot-works-it-out-review)
+[Citizen Sleeper 2 is the good kind of stressful](https://www.theverge.com/games-review/601114/citizen-sleeper-2-starward-vector-review)
+
+[Meta Quest 3S review: probably the one we’ve been waiting for](https://www.theverge.com/24340948/meta-quest-3s-vr-headset-review)
 
 [Before Your Eyes is a beautiful showcase of what VR storytelling can be](https://www.theverge.com/2023/3/10/23632733/before-your-eyes-playstation-vr2-psvr-2-vr-showcase-storytelling)
-
-[ZSA’s Moonlander Mark I is the ultimate customizable ergonomic keyboard](https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review)
 
 ### Media Appearances
 [CBS News: Bluesky picking up steam as alternative to X
@@ -45,7 +43,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 ](https://www.youtube.com/watch?v=VON-dN8Neho)
 
 ### Verge Media Appearances
-[TikTok video about the one-year anniversary of Elon Musk owning Twitter](https://www.tiktok.com/@verge/video/7294711029735394606)
+[TikTok video about the Nintendo Switch 2's announcement](https://www.tiktok.com/@verge/video/7460514159415840043?lang=en)
 
 [Instagram video about Linda Yaccarino and Yoel Roth at Code 2023](https://www.instagram.com/p/CxuT8pgLVNZ/)
 
