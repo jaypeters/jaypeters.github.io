@@ -1,16 +1,16 @@
 Hi! I’m a journalist at The Verge. I cover technology, gaming, and more.
 
-Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [jaypeters.net](https://bsky.app/profile/jaypeters.net).
+Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
 [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
 <br> I've been a key contributor to making this storystream (in Verge parlance) of articles featuring indie games that Verge staffers and I recommend.
 
+[Nightreign is shaping up to be a fast and frantic take on Elden Ring](https://www.theverge.com/games/614995/elden-ring-nightreign-tests-verge-staff-thoughts)
+<br> I organized this collection of staff thoughts about the Elden Ring Nightreign Closed Network Test. 
+
 [The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
 <br> I wrote about how many capable handheld gaming PCs that could present an interesting challenge to the Nintendo Switch 2.
-
-[Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
-<br> I attended Unreal Fest Seattle 2024 and was able to interview Epic Games CEO Tim Sweeney, EVP Saxs Persson, VP Steve Allison, and others. This is my wrap-up post from the event.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -20,18 +20,18 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
 
 ### Interviews
-[Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
+[Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans) (interviews with Epic Games CEO Tim Sweeney and EVP Saxs Persson)
 
-[Blizzard’s president on the studio’s ‘new era’ under Xbox](https://www.theverge.com/2023/11/6/23949086/blizzard-president-mike-ybarra-new-era-xbox-microsoft-blizzcon-2023) (interview with former Blizzard president Mike Ybarra)
+[Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
 
 [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
 ### Reviews
+[Die in the Dungeon will keep you busy until Slay the Spire 2](https://www.theverge.com/games-review/616163/die-in-the-dungeon-will-keep-you-busy-until-slay-the-spire-2)
+
 [Citizen Sleeper 2 is the good kind of stressful](https://www.theverge.com/games-review/601114/citizen-sleeper-2-starward-vector-review)
 
 [Meta Quest 3S review: probably the one we’ve been waiting for](https://www.theverge.com/24340948/meta-quest-3s-vr-headset-review)
-
-[Before Your Eyes is a beautiful showcase of what VR storytelling can be](https://www.theverge.com/2023/3/10/23632733/before-your-eyes-playstation-vr2-psvr-2-vr-showcase-storytelling)
 
 ### Media Appearances
 [CBS News: Bluesky picking up steam as alternative to X
