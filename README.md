@@ -3,14 +3,25 @@ Hi! I’m a journalist at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
-[The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
-<br> I've been a key contributor to making this storystream (in Verge parlance) of articles featuring indie games that Verge staffers and I recommend.
+[Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
+<br> I compared how costs for the Nintendo Switch 2 are higher than for the original Switch.
+
+[Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)
+<br> Senator Wyden's office reached out specifically to me to write first about this letter he sent to the FTC.
 
 [Nightreign is shaping up to be a fast and frantic take on Elden Ring](https://www.theverge.com/games/614995/elden-ring-nightreign-tests-verge-staff-thoughts)
-<br> I organized this collection of staff thoughts about the Elden Ring Nightreign Closed Network Test. 
+<br> I organized this collection of staff thoughts about the Elden Ring Nightreign Closed Network Test.
 
-[The Switch 2 is almost here — but PC handhelds are giving it big competition](https://www.theverge.com/2025/1/9/24339466/nintendo-switch-2-pc-gaming-handhelds-steamos)
-<br> I wrote about how many capable handheld gaming PCs that could present an interesting challenge to the Nintendo Switch 2.
+### Coverage from the 2025 Game Developers Conference
+
+[Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)
+<br> I talked with two staffers at Playstack, which publishes Balatro, about why LocalThunk, the game's developer, hasn't revealed his identity.
+
+[Indie studio Heart Machine is experimenting with Patreon because ‘money is tough to come by’](https://www.theverge.com/games/640287/heart-machine-patreon-gdc)
+<br> I spoke with Heart Machine, the developers behind games like Hyper Light Drifter and Solar Ash, about its Patreon.
+
+[7 cool indie games from GDC 2025](https://www.theverge.com/games/633885/gdc-2025-best-indie-games)
+<br> Here are 7 games my colleague Andrew Webster and I liked at GDC 2025. (My favorite was Faraway.)
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -27,7 +38,8 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
 ### Reviews
-[Die in the Dungeon will keep you busy until Slay the Spire 2](https://www.theverge.com/games-review/616163/die-in-the-dungeon-will-keep-you-busy-until-slay-the-spire-2)
+[The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
+<br> I've been a key contributor to making this storystream (in Verge parlance) of articles and reviews about indie games The Verge recommends.
 
 [Citizen Sleeper 2 is the good kind of stressful](https://www.theverge.com/games-review/601114/citizen-sleeper-2-starward-vector-review)
 
