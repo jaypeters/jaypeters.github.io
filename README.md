@@ -55,7 +55,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 ](https://www.youtube.com/watch?v=VON-dN8Neho)
 
 ### Verge Media Appearances
-[TikTok video about the Nintendo Switch 2's announcement](https://www.tiktok.com/@verge/video/7460514159415840043?lang=en)
+[TikTok video about Nintendo's efforts to beat Switch 2 pre-order scalpers](https://www.tiktok.com/@verge/video/7488831124077268270)
 
 [Instagram video about Linda Yaccarino and Yoel Roth at Code 2023](https://www.instagram.com/p/CxuT8pgLVNZ/)
 
