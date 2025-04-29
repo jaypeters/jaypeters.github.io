@@ -13,7 +13,6 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 <br> Senator Wyden's office reached out specifically to me to write first about this letter he sent to the FTC.
 
 ### Select coverage from the 2025 Game Developers Conference
-
 [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)
 <br> I talked with two staffers at Playstack, which publishes Balatro, about why LocalThunk, the game's developer, hasn't revealed his identity.
 
@@ -46,10 +45,10 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Meta Quest 3S review: probably the one we’ve been waiting for](https://www.theverge.com/24340948/meta-quest-3s-vr-headset-review)
 
 ### Media Appearances
+[LiveNOW from FOX: Nintendo Switch 2 pre-orders sold out](https://www.livenowfox.com/video/1630794)
+
 [CBS News: Bluesky picking up steam as alternative to X
 ](https://www.youtube.com/watch?v=x-dz6EJYl2c)
-
-[CNBC Last Call segment about Kai Cenat’s chaotic giveaway in Union Square](https://x.com/LastCallCNBC/status/1687605342924931072)
 
 [CBC News: ELI5: What's the deal with the Reddit blackout? | About That
 ](https://www.youtube.com/watch?v=VON-dN8Neho)
