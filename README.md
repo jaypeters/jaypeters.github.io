@@ -3,14 +3,15 @@ Hi! I’m a journalist at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
+[Polygon’s new owner says it will ‘do what’s right for Polygon’
+](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)
+<br> I spoke with Valnet's head of mergers and acquisitions about the company's plan for Polygon following the site's sale from Vox Media.
+
 [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
 <br> My interview with Lucas Pope at GDC 2025.
 
 [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
 <br> I compared how costs for the Nintendo Switch 2 are higher than for the original Switch. (And this was before the increased prices [on accessories](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date) were announced.)
-
-[Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)
-<br> Senator Wyden's office reached out specifically to me to write first about this letter he sent to the FTC.
 
 ### Select coverage from the 2025 Game Developers Conference
 [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)
