@@ -3,15 +3,15 @@ Hi! I’m a journalist at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
-[Polygon’s new owner says it will ‘do what’s right for Polygon’
-](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)
-<br> I spoke with Valnet's head of mergers and acquisitions about the company's plan for Polygon following the site's sale from Vox Media.
+[With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)
+<br> I wrote about how the failed Wii U helped pioneer ideas that Nintendo evolved into a huge success with the Switch and, presumably, the Switch 2.
+
+[Expedition 33’s big twist was designed to ‘inflict the pain on the player’
+](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)
+<br> I interviewed _Clair Obscur: Expedition 33's_ creative director and lead writer about a pivotal moment in the game.
 
 [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
 <br> My interview with Lucas Pope at GDC 2025.
-
-[Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
-<br> I compared how costs for the Nintendo Switch 2 are higher than for the original Switch. (And this was before the increased prices [on accessories](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date) were announced.)
 
 ### Select coverage from the 2025 Game Developers Conference
 [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)
@@ -31,11 +31,12 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
 
 ### Interviews
+[Polygon’s new owner says it will ‘do what’s right for Polygon’
+](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)
+
 [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans) (interviews with Epic Games CEO Tim Sweeney and EVP Saxs Persson)
 
 [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
-
-[Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart) (interview with Limited Run Games CEO Josh Fairhurst)
 
 ### Reviews
 [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
