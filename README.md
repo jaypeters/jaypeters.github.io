@@ -48,10 +48,10 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
 <br> I've been a key contributor to making this storystream (in Verge parlance) of articles and reviews about indie games The Verge recommends.
 
+[Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables) 
+
 [Deltarune is halfway done, but it feels like a full game
 ](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch) 
-
-[Citizen Sleeper 2 is the good kind of stressful](https://www.theverge.com/games-review/601114/citizen-sleeper-2-starward-vector-review)
 
 ### Media Appearances
 [LiveNOW from FOX: Nintendo Switch 2 pre-orders sold out](https://www.livenowfox.com/video/1630794)
