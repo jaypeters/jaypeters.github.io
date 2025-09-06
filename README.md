@@ -1,8 +1,12 @@
-Hi! I’m a journalist at The Verge. I cover technology, gaming, and more.
+Hi! I’m a senior reporter at The Verge. I cover technology, gaming, and more.
 
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
+[Stardew Valley’s creator is in Silksong
+](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)
+<br> I was the first to report that Stardew Valley Eric Barone is credited with providing voices in Hollow Knight: Silksong.
+
 [Astro Bot’s director on making a PlayStation icon
 ](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
 <br> I intereviewed Nicolas Doucet following his GDC 2025 presentation about Astro's origins and the small details that give Astro his charming personality.
@@ -14,9 +18,6 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [The Atlantic is making a big push into games
 ](https://www.theverge.com/news/687721/the-atlantic-games-hub-bracket-city)
 <br> I got an exclusive interview with The Atlantic's director of games about its new hub for games and puzzles.
-
-[With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)
-<br> I wrote about how the failed Wii U helped pioneer ideas that Nintendo evolved into a huge success with the Switch and, presumably, the Switch 2.
 
 [Expedition 33’s big twist was designed to ‘inflict the pain on the player’
 ](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)
