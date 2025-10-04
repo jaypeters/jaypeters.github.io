@@ -3,25 +3,15 @@ Hi! I’m a senior reporter at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
+[What EA’s buyout might mean for its future](https://www.theverge.com/games/787723/ea-private-deal-buyout-future-games-layoffs)
+<br> I wrote this piece analyzing EA's $55 billion take-private deal.
+
+[Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
+<br> I reviewed the Ray-Ban Meta Gen 2 smart glasses.
+
 [Stardew Valley’s creator is in Silksong
 ](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)
 <br> I was the first to report that Stardew Valley Eric Barone is credited with providing voices in Hollow Knight: Silksong.
-
-[Astro Bot’s director on making a PlayStation icon
-](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
-<br> I intereviewed Nicolas Doucet following his GDC 2025 presentation about Astro's origins and the small details that give Astro his charming personality.
-
-[Death Stranding 2 is bigger and more ambitious — and that includes its music
-](https://www.theverge.com/games/691316/death-stranding-2-woodkid-kojima-music-player)
-<br> I intereviewed Woodkid, one of the composers of Death Stranding 2, about the game's music, the game's in-game music player, and working with Hideo Kojima.
-
-[The Atlantic is making a big push into games
-](https://www.theverge.com/news/687721/the-atlantic-games-hub-bracket-city)
-<br> I got an exclusive interview with The Atlantic's director of games about its new hub for games and puzzles.
-
-[Expedition 33’s big twist was designed to ‘inflict the pain on the player’
-](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)
-<br> I interviewed Clair Obscur: Expedition 33's creative director and lead writer about a pivotal moment in the game.
 
 ### Select coverage from the 2025 Game Developers Conference
 [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
@@ -38,10 +28,10 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
 
 ### Interviews
-[Tim Sweeney didn’t expect a five-year Fortnite ban](https://www.theverge.com/games/678885/epic-games-ceo-tim-sweeney-five-year-fortnite-ban)
+[Astro Bot’s director on making a PlayStation icon
+](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
 
-[Polygon’s new owner says it will ‘do what’s right for Polygon’
-](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)
+[Tim Sweeney didn’t expect a five-year Fortnite ban](https://www.theverge.com/games/678885/epic-games-ceo-tim-sweeney-five-year-fortnite-ban)
 
 [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
 
@@ -49,10 +39,9 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
 <br> I've been a key contributor to making this storystream (in Verge parlance) of articles and reviews about indie games The Verge recommends.
 
-[Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables) 
+[Hades II’s big 1.0 update has me obsessed all over again](https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch)
 
-[Deltarune is halfway done, but it feels like a full game
-](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch) 
+[Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables) 
 
 ### Media Appearances
 [LiveNOW from FOX: Nintendo Switch 2 pre-orders sold out](https://www.livenowfox.com/video/1630794)
