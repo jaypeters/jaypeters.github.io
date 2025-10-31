@@ -3,8 +3,8 @@ Hi! I’m a senior reporter at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
-[What EA’s buyout might mean for its future](https://www.theverge.com/games/787723/ea-private-deal-buyout-future-games-layoffs)
-<br> I wrote this piece analyzing EA's $55 billion take-private deal.
+[Battlefield 6 is a pivotal moment for the series — and EA](https://www.theverge.com/games/795232/ea-battlefield-6-hit-launch-deal)
+<br> I wrote this report analyzing the launch of Battlefield 6 and what it represents for EA.
 
 [Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
 <br> I reviewed the Ray-Ban Meta Gen 2 smart glasses.
