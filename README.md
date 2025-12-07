@@ -37,6 +37,8 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
 <br> I've been a key contributor to making this storystream (in Verge parlance) of articles and reviews about indie games The Verge recommends.
 
+[This keyboard and trackball combo is for the tinkerers](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)
+
 [Hades II’s big 1.0 update has me obsessed all over again](https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch)
 
 [Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables) 
