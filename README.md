@@ -2,7 +2,7 @@ Hi! I’m a senior reporter at The Verge. I cover technology, gaming, and more.
 
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
-[Link to another page](./another-page.html)
+[Link to another page](./another-page.md)
 
 ### Recent-ish stories I'm proud of
 [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on)
