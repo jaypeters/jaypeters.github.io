@@ -3,33 +3,28 @@ Hi! I’m a senior reporter at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
+[Big games are getting bigger — and so are the stakes](https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games)
+<br> I about how publishers like Ubisoft and EA are making fewer but bigger games and how playing it safe isn’t entirely without risk.
+
+[Gaming’s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)
+<br> I talked to Circana analyst Mat Piscatella about why he started posting lists of games that sold just one copy.
+
 [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on)
 <br> I wrote about my experiences trying Valve's fascinating new VR headset. I got to try the [new Steam Controller, too](https://www.theverge.com/games/815061/valve-steam-controller-hands-on-deck-frame-machine).
 
 [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)
 <br> I scooped that Sony and NCSoft are developing Horizon Steel Frontiers, a new MMO designed "specifically for mobile," more than an hour before it was officially announced.
 
-[Battlefield 6 is a pivotal moment for the series — and EA](https://www.theverge.com/games/795232/ea-battlefield-6-hit-launch-deal)
-<br> I wrote a report analyzing the launch of Battlefield 6 and what it represents for EA.
-
-[Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
-<br> I reviewed the Ray-Ban Meta Gen 2 smart glasses.
-
-[The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
-<br> I interviewed Lucas Pope ahead of him receiving the Pioneer Award at GDC 2025.
-
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
-
-[Elon Musk’s Twitter, one year later](https://www.theverge.com/23934205/elon-musk-twitter-x-one-year-later-acquisition)
 
 [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
 
 ### Interviews
-[Astro Bot’s director on making a PlayStation icon
-](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
+[Tim Sweeney on the future of Fortnite after another win over Apple](https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview)
 
-[Tim Sweeney didn’t expect a five-year Fortnite ban](https://www.theverge.com/games/678885/epic-games-ceo-tim-sweeney-five-year-fortnite-ban)
+[The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
+<br> I interviewed Lucas Pope ahead of him receiving the Pioneer Award at GDC 2025.
 
 [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
 
@@ -37,11 +32,10 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)
 <br> I've been a key contributor to making this storystream (in Verge parlance) of articles and reviews about indie games The Verge recommends.
 
-[This keyboard and trackball combo is for the tinkerers](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)
-
 [Hades II’s big 1.0 update has me obsessed all over again](https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch)
 
-[Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables) 
+[Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
+<br> I reviewed the Ray-Ban Meta Gen 2 smart glasses.
 
 ### Media Appearances
 [LiveNOW from FOX: Nintendo Switch 2 pre-orders sold out](https://www.livenowfox.com/video/1630794)
