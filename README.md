@@ -3,17 +3,17 @@ Hi! I’m a senior reporter at The Verge. I cover technology, gaming, and more.
 Below are select highlights of my work. You can see all of my writing for The Verge on [my author page](https://www.theverge.com/authors/jay-peters). On Bluesky, I'm [@jaypeters.net](https://bsky.app/profile/jaypeters.net).
 
 ### Recent-ish stories I'm proud of
-[Big games are getting bigger — and so are the stakes](https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games)
-<br> I about how publishers like Ubisoft and EA are making fewer but bigger games and how playing it safe isn’t entirely without risk.
+[The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJTbmxhUUFma3QiLCJwIjoiL3RlY2gvOTA4NDc2L2pvbi1wcm9zc2VyLWFwcGxlLWxpcXVpZC1nbGFzcyIsImV4cCI6MTc3NjYwMzcxNywiaWF0IjoxNzc2MTcxNzE3fQ.EH0TrfVCIDcy417rZF16cKddKSyy6rY6_VnppZh7c10&utm_medium=gift-link)
+<br> I wrote a feature centered around Apple's lawsuit against YouTuber Jon Prosser. He shared three videos leaking details of Liquid Glass, and while ​Apple usually doesn't acknowledge leaks, this time, it decided to pick a fight in public. The story features new statements from both Apple and Prosser.
+
+[AI was everywhere at gaming’s big developer conference — except the games](https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Inp0QXFZT2ZMcWoiLCJwIjoiL2dhbWVzLzg5Nzk4Mi9nZGMtMjAyNi1haS1nYW1lLWRldmVsb3Blci1jb25mZXJlbmNlIiwiZXhwIjoxNzc0NjE2NjY4LCJpYXQiOjE3NzQxODQ2Njh9.XIYuszhZe1ATavEzDVV0BRwV52G4vjdnT8TZLCrSwEY&utm_medium=gift-link)
+<br> AI was everywhere at GDC in 2026, but developers I talked to were against the idea of using AI to help make their games. “I feel like the human mind is so beautiful,” said one. “Why not use it?”
 
 [Gaming’s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)
 <br> I talked to Circana analyst Mat Piscatella about why he started posting lists of games that sold just one copy.
 
 [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on)
 <br> I wrote about my experiences trying Valve's fascinating new VR headset. I got to try the [new Steam Controller, too](https://www.theverge.com/games/815061/valve-steam-controller-hands-on-deck-frame-machine).
-
-[Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)
-<br> I scooped that Sony and NCSoft are developing Horizon Steel Frontiers, a new MMO designed "specifically for mobile," more than an hour before it was officially announced.
 
 ### Features
 [How Reddit crushed the biggest protest in its history](https://www.theverge.com/23779477/reddit-protest-blackouts-crushed) 
@@ -43,8 +43,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 [CBS News: Bluesky picking up steam as alternative to X
 ](https://www.youtube.com/watch?v=x-dz6EJYl2c)
 
-[CBC News: ELI5: What's the deal with the Reddit blackout? | About That
-](https://www.youtube.com/watch?v=VON-dN8Neho)
+[CBC News: ELI5: What's the deal with the Reddit blackout? | About That](https://www.youtube.com/watch?v=VON-dN8Neho)
 
 ### Verge Media Appearances
 [Social video about the Steam Controller and Steam Machine](https://www.instagram.com/p/DQ9zfR9kRpG/?hl=en)
