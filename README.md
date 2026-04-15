@@ -42,7 +42,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 
 [CBS News: Bluesky picking up steam as alternative to X](https://www.youtube.com/watch?v=x-dz6EJYl2c)
 
-[CBC News: ELI5: What's the deal with the Reddit blackout? | About That](https://www.youtube.com/watch?v=VON-dN8Neho)
+[CBC News: ELI5: What's the deal with the Reddit blackout?](https://www.youtube.com/watch?v=VON-dN8Neho)
 
 ### Verge Media Appearances
 [Social video about the Steam Controller and Steam Machine](https://www.instagram.com/p/DQ9zfR9kRpG/?hl=en)
