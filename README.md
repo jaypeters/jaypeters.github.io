@@ -40,8 +40,7 @@ Below are select highlights of my work. You can see all of my writing for The Ve
 ### Media Appearances
 [LiveNOW from FOX: Nintendo Switch 2 pre-orders sold out](https://www.livenowfox.com/video/1630794)
 
-[CBS News: Bluesky picking up steam as alternative to X
-](https://www.youtube.com/watch?v=x-dz6EJYl2c)
+[CBS News: Bluesky picking up steam as alternative to X](https://www.youtube.com/watch?v=x-dz6EJYl2c)
 
 [CBC News: ELI5: What's the deal with the Reddit blackout? | About That](https://www.youtube.com/watch?v=VON-dN8Neho)
 
